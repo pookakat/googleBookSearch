@@ -1,0 +1,44 @@
+#title-info{
+    text-align: center;
+    border: 2px #4285F4 solid;
+}
+.navbar-nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.navbar-nav .nav-link{
+    padding: 10px;
+    color: #F4B400;
+}
+.navbar-dark .navbar-nav .nav-link{
+    color: #F4B400;
+}
+.navbar-dark .navbar-nav .nav-link:hover{
+    color: #F4B400;
+    text-shadow: 2px 2px 2px #DB4437;
+}
+.red-txt{
+    color: #DB4437;
+}
+.yellow-txt{
+    color: #F4B400;
+}
+.green-txt{
+    color: #0F9D58;
+}
+.blue-txt{
+   color: #4285F4; 
+}
+.blue-bkg{
+    background-color: #4285F4;
+}
+.green-bkg{
+    background-color: #0F9D58;
+}
+.yellow-bkg{
+    background-color: #F4B400;
+}
+.red-bkg{
+    background-color: #DB4437;
+}
